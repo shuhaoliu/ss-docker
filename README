@@ -1,0 +1,3 @@
+## How to run
+
+docker run --network="host" -d liuempire/ss
